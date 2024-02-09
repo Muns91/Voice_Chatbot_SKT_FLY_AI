@@ -17,8 +17,8 @@ VScode, Flutter, OpenAI Key, pubspec.yaml 을 통해 버전을 확인하세요! 
 package="com.example.flutter_voice"> <br/>
 
 
-<uses-permission android:name="android.permission.RECORD_AUDIO"/> <br/>
-<uses-permission android:name="android.permission.INTERNET"/> <br/>
+- <uses-permission android:name="android.permission.RECORD_AUDIO"/> <br/>
+- <uses-permission android:name="android.permission.INTERNET"/> <br/>
 
 이렇게 해서 권한 설정을 해야됨을 꼭 참고하세요.
 
