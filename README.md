@@ -11,14 +11,9 @@ VScode, Flutter, OpenAI Key, pubspec.yaml 을 통해 버전을 확인하세요! 
 \flutter_voice\android\app\src\main\AndroidManifest.xml <br/>
 
 
-
-<?xml version="1.0" encoding="utf-8"?> <br/>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" <br/>
-package="com.example.flutter_voice"> <br/>
+![image](https://github.com/Muns91/Voice_Chatbot_SKT_FLY_AI/assets/150130876/4aa6f42a-a6ce-424c-bc8d-5e03acfbd52e)
 
 
-- <a uses-permission android:name="android.permission.RECORD_AUDIO" /a> <br/>
-- <a uses-permission android:name="android.permission.INTERNET"/a> <br/>
 
 이렇게 해서 권한 설정을 해야됨을 꼭 참고하세요.
 
